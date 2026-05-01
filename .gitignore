@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Note: trading_bot.log is deliberately NOT ignored because it is a required deliverable for the application task.
+# *.log  <-- Commented out to ensure trading_bot.log gets committed.
